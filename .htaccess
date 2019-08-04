@@ -1,0 +1,9 @@
+<FilesMatch "\.(php)$">
+    # Запрещает прямой доступ ко всем файлам
+    Deny from all
+</FilesMatch>
+
+<FilesMatch "index.(php)$">
+    # Разрешает доступ
+    Allow from all
+</FilesMatch>
