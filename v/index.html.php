@@ -28,6 +28,8 @@
         <button data-type='+'>+</button>
         <button class="equal" data-type='='>=</button>
     </div>
+
+    
 <input type="text" class="num">
 <span class="res">0</span>
 
