@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7ab9df9-56b3-4a47-aa3b-0e0ca3c5f746" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/v/index.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/v/index.html.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +39,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/v/index.html.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="682">
-                  <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+                <state relative-caret-position="290">
+                  <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="198">
+                  <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
@@ -53,15 +64,18 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/js.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="38">
-                  <caret line="82" column="35" lean-forward="true" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+                <state relative-caret-position="202">
+                  <caret line="112" column="16" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
                   <folding>
                     <element signature="e#28#668#0" expanded="true" />
                     <element signature="n#!!block;n#ajaxGet#0" expanded="true" />
                     <element signature="e#848#1020#0" expanded="true" />
                     <element signature="n#!!block;n#ajaxPost#0" expanded="true" />
                     <element signature="e#1262#1434#0" expanded="true" />
+                    <element signature="n#!!block;n#calc#0" expanded="true" />
+                    <element signature="n#!!block;n#getCalc#0;n#!!block;n#calc#0" expanded="true" />
                     <element signature="n#!!block;n#getAction#0;n#!!block;n#calc#0" expanded="true" />
+                    <element signature="n#!!block;n#f#0" expanded="true" />
                     <element signature="n#!!block;n#getLink#0" expanded="true" />
                   </folding>
                 </state>
@@ -117,17 +131,18 @@
         <option value="$PROJECT_DIR$/v/edit.html.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/assets/style.css" />
-        <option value="$PROJECT_DIR$/assets/js.js" />
         <option value="$PROJECT_DIR$/../new.cc/tpl/_lang_google.tpl" />
         <option value="$PROJECT_DIR$/v/index.html.php" />
+        <option value="$PROJECT_DIR$/assets/js.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="14" />
+    <option name="x" value="19" />
+    <option name="y" value="10" />
     <option name="width" value="2540" />
-    <option name="height" value="2107" />
+    <option name="height" value="1980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -220,15 +235,15 @@
       <workItem from="1564603599337" duration="999000" />
       <workItem from="1564693280308" duration="834000" />
       <workItem from="1564863805843" duration="726000" />
-      <workItem from="1564915324551" duration="1220000" />
+      <workItem from="1564915324551" duration="2165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91206000" />
+    <option name="totallyTimeSpent" value="92151000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="8" width="1451" height="1204" extended-state="0" />
+    <frame x="11" y="6" width="1451" height="1131" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.19283536" />
@@ -241,7 +256,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.20573184" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
@@ -254,6 +269,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -364,33 +405,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="82" column="35" lean-forward="true" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
-          <folding>
-            <element signature="e#28#668#0" expanded="true" />
-            <element signature="n#!!block;n#ajaxGet#0" expanded="true" />
-            <element signature="e#848#1020#0" expanded="true" />
-            <element signature="n#!!block;n#ajaxPost#0" expanded="true" />
-            <element signature="e#1262#1434#0" expanded="true" />
-            <element signature="n#!!block;n#getAction#0;n#!!block;n#calc#0" expanded="true" />
-            <element signature="n#!!block;n#getLink#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -410,8 +428,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v/index.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        <state relative-caret-position="290">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="112" column="16" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
+          <folding>
+            <element signature="e#28#668#0" expanded="true" />
+            <element signature="n#!!block;n#ajaxGet#0" expanded="true" />
+            <element signature="e#848#1020#0" expanded="true" />
+            <element signature="n#!!block;n#ajaxPost#0" expanded="true" />
+            <element signature="e#1262#1434#0" expanded="true" />
+            <element signature="n#!!block;n#calc#0" expanded="true" />
+            <element signature="n#!!block;n#getCalc#0;n#!!block;n#calc#0" expanded="true" />
+            <element signature="n#!!block;n#getAction#0;n#!!block;n#calc#0" expanded="true" />
+            <element signature="n#!!block;n#f#0" expanded="true" />
+            <element signature="n#!!block;n#getLink#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>

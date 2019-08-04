@@ -107,9 +107,11 @@ function calc(){
 
             }
         }
-
         return sum;
     }
+}
+function event(e) {
+
 }
 
 //calc();
